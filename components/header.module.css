@@ -1,0 +1,51 @@
+.header {
+    width: 100%;
+    height: 3.5rem;
+    background-color: #e5899b;
+}
+
+.container {
+    max-width: 48rem;
+    width: 100%;
+    height: 3.5rem;
+    padding: 0 1rem;
+    margin: 0rem auto 0rem;
+    display: flex;
+    align-items: center;
+}
+
+.global_nav {
+    margin-top: 15px;
+    text-align: center;
+}
+.title {
+    margin-right:auto;
+    font-size: 1.5rem;
+}
+
+.title_a {
+    color: white;
+    font-family: Roboto;
+}
+
+.nav_item  {
+    display: inline-block;
+}
+
+.a {
+    display:inline-block;
+    color: white;
+    font-family: Roboto;
+    text-align:center;
+    letter-spacing: 0.05rem;
+    transition: 0.15s;
+    padding: 0.5rem 1rem;
+    margin-inline: 0.3rem;
+    border-width: 0.1rem;
+    border-radius: 1.0rem;
+}
+
+.a:hover {
+    text-decoration: none;
+    background-color: #d03c56;
+}
