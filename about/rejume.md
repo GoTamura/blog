@@ -50,34 +50,25 @@ Github: [GoTamura](https://github.com/GoTamura)
     日本流体力学会第34回数値流体力学シンポジウム, 2020.12.21-24, オンライン  
 
 ----------------
-## Projects
-- シンプルな関数型言語のインタプリタ
-- レイトレーサー
-
-----------------
 ## Skills
 ### Computer Languages
 - できる  
-    - C, C++  
-        インタプリタ　基本的な例とレーサー　日々の実験コード
+    - C/C++  
     - Rust  
-        基本的なレイトレーサー
-        WebGPU
-        Webサーバ
-    - Shell, TEX 
-    実験環境、論文
+    - Shell 
 
 - ちょっとできる  
     - python  
-        基礎的なデータ解析
+        基礎的なデータ処理
     - JavaScirpt  
       React.js(Next.js)でのブログサイトの構築
-    - MATLAB, Verilog 
+    - TeX, MATLAB, Verilog
 
 ### Technologies
 - Linuxの管理  
     Arch/Ubuntu, Vim, Docker
 - OpenGL, WebGL
+- Unity
 - Git
 
 <div style="text-align: center;">

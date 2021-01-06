@@ -32,28 +32,6 @@ export default function Header({ children }) {
             </ul>
           </nav>
         </MediaQuery>
-        <MediaQuery query="(max-width: 767px)">
-          <input type="checkbox" />
-          <nav class={styles.gloval_nav}>
-            <ul>
-              <li class={styles.nav_item}>
-                <Link href="/about">
-                  <a class={styles.a}>About</a>
-                </Link>
-              </li>
-              <li class={styles.nav_item}>
-                <Link href="/posts">
-                  <a class={styles.a}>Blog</a>
-                </Link>
-              </li>
-              <li class={styles.nav_item}>
-                <Link href="/works">
-                  <a class={styles.a}>Works</a>
-                </Link>
-              </li>
-            </ul>
-          </nav>
-        </MediaQuery>
       </div>
     </header>
   );
