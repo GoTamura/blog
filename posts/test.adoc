@@ -1,0 +1,6 @@
+---
+title: 'test'
+date: '2020-02-02'
+---
+
+http://asciidoctor.org[*Asciidoctor*] running on https://opalrb.com[_Opal_] brings AsciiDoc to Node.js!
