@@ -50,6 +50,12 @@ Github: [GoTamura](https://github.com/GoTamura)
     日本流体力学会第34回数値流体力学シンポジウム, 2020.12.21-24, オンライン  
 
 ----------------
+## Pojects
+
+- シンプルな関数型言語のインタープリタ[[GitHub](https://github.com/GoTamura/copl-solver)]
+- レイトレーサー(WIP)[[GitHub](https://github.com/GoTamura/ray)]
+
+----------------
 ## Skills
 ### Computer Languages
 - できる  
